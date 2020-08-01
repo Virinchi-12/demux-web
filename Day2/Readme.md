@@ -80,7 +80,7 @@ hoisting();
     }
     console.log(a); // Error
     console.log(b); // Error
-    console.log(3); // 3
+    console.log(c); // 3
 ```
 
 5. Execution context :
